@@ -3,7 +3,7 @@ Informatics
 Mulawarman University
 
 # Eksploration Google dev Product
-![Untitled](https://user-images.githubusercontent.com/54176971/134797077-b0181636-7983-4bb8-ad99-eac162f68d25.png)
+![maxresdefault](https://user-images.githubusercontent.com/54176971/134797656-81ba3098-31f8-4cef-a7c3-23e75b105438.jpg)
 
 # Android
 By now, most people know there are two prominent mobile operating systems: Google’s Android and Apple’s iOS. There used to be a lot more, but now pretty much every major mobile device runs one or the other. Being that this is a site with “Android” in its name, we might have visitors who wonder: “What is Android?” That’s actually a huge question, and we aim to answer it as thoroughly as possible here!
@@ -31,4 +31,4 @@ The answer to this question has a few facets. In brief, Google employees maintai
  ## Android versions: A brief history
  As of today, there have been 18 versions of Android, with 11 major releases. The most recent stable version of the operating system is Android 11. We expect Android 12 to land later in 2021, at the end of August or the beginning of September, which will make it the 19th version and 12th major release.
   Originally, Google named Android after “sweet treats.” Each treat name happened in alphabetical order, starting with the letter “C” in 2009. However, Google abandoned this trend in 2019 with the launch of Android 10.
-![history-of-android-versions](https://user-images.githubusercontent.com/54176971/134797090-6d20a1ee-4221-41f0-919c-51bbf8da23ea.jpg)
+![download (1)](https://user-images.githubusercontent.com/54176971/134797659-02769690-ded6-4636-a8ac-3023d834047f.png)
